@@ -1,6 +1,7 @@
 rooted-graphene
 ===
 
+Fork of the original project to use Pixincreate's Magisk by default and to compile for Pixel 9 Pro.
 
 GrapheneOS over the air updates (OTAs) patched with Magisk using [avbroot](https://github.com/chenxiaolong/avbroot) allowing for AVB and locked bootloader *and* root access.
 Provides its own OTA server for [Custota](https://github.com/chenxiaolong/Custota) magisk module.
