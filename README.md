@@ -53,7 +53,7 @@ TLDR:
         --directory extracted \
         --fastboot
     ```
-* Set the environment variable to match the extracted folder:
+* Set this environment variable to match the extracted folder:
 
   For Linux/macOS:
   ```bash
@@ -69,7 +69,7 @@ TLDR:
   set ANDROID_PRODUCT_OUT=extracted
   ```
 
-  Flash the partitions using the command:
+* Flash the partitions using the command:
   ```bash
   fastboot flashall --skip-reboot
   ```
