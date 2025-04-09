@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/FinGu/rooted-graphene/releases/download/2025040400/caiman-2025040400-magisk-canary-28001-5a93352.zip",
-    "location_csig": "https://github.com/FinGu/rooted-graphene/releases/download/2025040400/caiman-2025040400-magisk-canary-28001-5a93352.zip.csig"
+    "location_ota": "https://github.com/FinGu/rooted-graphene/releases/download/2025040700/caiman-2025040700-magisk-canary-28001-5a93352.zip",
+    "location_csig": "https://github.com/FinGu/rooted-graphene/releases/download/2025040700/caiman-2025040700-magisk-canary-28001-5a93352.zip.csig"
   }
 }
