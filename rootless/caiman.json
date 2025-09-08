@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/FinGu/rooted-graphene/releases/download/2025090300/caiman-2025090300-rootless-5a93352.zip",
-    "location_csig": "https://github.com/FinGu/rooted-graphene/releases/download/2025090300/caiman-2025090300-rootless-5a93352.zip.csig"
+    "location_ota": "https://github.com/FinGu/rooted-graphene/releases/download/2025090600/caiman-2025090600-rootless-5a93352.zip",
+    "location_csig": "https://github.com/FinGu/rooted-graphene/releases/download/2025090600/caiman-2025090600-rootless-5a93352.zip.csig"
   }
 }
